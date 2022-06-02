@@ -1,17 +1,13 @@
 # streamlit-machine-learning
-## A simple machine learning algorithm web application based on streamlit \
-## Streamlit, yes!
+A simple machine learning algorithm web application based on streamlit \
+Streamlit, yes!
 
 # install
-
     pip install -r requirements.txt
 
-
 # run
-
     streamlit run app.py
-
-
+    
 # awsome screenshot
 
 ![](images/fig.1.png)
