@@ -1,5 +1,5 @@
 # streamlit-machine-learning
-> A simple machine learning algorithm web application based on streamlit 
+> A simple machine learning algorithm web application based on streamlit \n
 > Streamlit, yes!
 
 # install
