@@ -5,8 +5,6 @@ Streamlit, yes!
     pip install -r requirements.txt
 # run
     streamlit run app.py
-# run
-    streamlit run app.py
 # awsome screenshot
 
 ![](images/fig.1.png)
